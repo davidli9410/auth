@@ -16,6 +16,7 @@ To use this project, git clone the repository and then:
 
 2. **Start the entire application:**
    ```bash
+   cd auth
    docker-compose up -d
    ```
 
